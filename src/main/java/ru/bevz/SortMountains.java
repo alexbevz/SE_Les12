@@ -12,6 +12,8 @@ public class SortMountains {
 	}
 
 	public void go() {
+		System.out.println("Задача про горы");
+
 		mtn.add(new Mountain("Лонг-Рейндж", 14255));
 		mtn.add(new Mountain("Эльберт", 14433));
 		mtn.add(new Mountain("Марун", 14156));
